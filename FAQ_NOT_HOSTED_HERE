@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=11085980; 
+var sc_invisible=1; 
+var sc_security="2479819e"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11085980/0/2479819e/1/" alt="web
+analytics"></a></div></noscript>
+<!-- why the fuck are you reading my website code go to SLEEP -->
+
+<title>Magpie Kent</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="shortcut icon" type="image/gif" href="http://static.tumblr.com/827a12c231a13f7027539b3b1265f6c8/q1j3uvr/g70optx1j/tumblr_static_2x33iyynquuc8o4wskggsock4.gif"/>    
+<style>
+body,h1,h5 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+    background-image: url('http://www.insidebusinessnyc.com/wp-content/uploads/2013/08/showpalace2.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+logo {
+    max-width: 100%;
+    height: auto;
+}
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-text-white">
+  <div class="w3-display-middle w3-jumbo">
+    <p><logo><img src="http://static.tumblr.com/827a12c231a13f7027539b3b1265f6c8/q1j3uvr/g70optx1j/tumblr_static_2x33iyynquuc8o4wskggsock4.gif"></logo>
+    
+    <!-- <img src="http://static.tumblr.com/433e3aa7ab5bac1480649e0975390430/0rule1s/Ds0osp5l0/tumblr_static_22re25sc0u9wgk0w08w4088sc.png" /></logo></p>-->
+  </div>
+  <div class="w3-display-topleft w3-container w3-xlarge">
+    
+    <p><button onclick="location.href='http://twitch.tv/magpiekent';" class="w3-button w3-black">back to twitch</button></p>
+    <p><button onclick="document.getElementById('faq').style.display='block'" class="w3-button w3-black">open faq</button></p>
+  </div>
+  <div class="w3-display-bottomleft w3-container">
+    <!-- <p class="w3-xlarge">It's all a dream, isn't it?</p>
+    <p class="w3-large">Magpie Kent is a transgender New Yorker, strap-on addict, avid gamer, and mechanical engineering student.</p>-->
+    <p>powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3</a> & hosted on Tumblr</p>
+  </div>
+</div>
+
+<!-- Work Modal -->
+<div id="faq" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-black w3-display-container">
+      <span onclick="document.getElementById('faq').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+      <h1>FAQ</h1></h1>
+    </div>
+    <div class="w3-container">
+      <h5>
+          I'm broke. How can I support you?
+          <blockquote>Anyone can follow & subscribe to my Twitch.
+              <p>People 18 and up can make a free ManyVids account and "favorite" all my stuff. These things DO help!
+          </blockquote>
+      </h5>
+      <h5>
+          Can I see your boobs?
+          <blockquote>
+              I don't have any. If you still want to see me, be prepared for big ugly scars.
+          </blockquote>
+      </h5>
+      <h5>
+          Did you have breast cancer?
+          <blockquote>No. But it was NOT a cosmetic decision. Tip me $100 and I'll tell you the whole story.</blockquote>
+      </h5>
+      <h5>
+          Are you a girl?
+          <blockquote>No.</blockquote>
+      </h5>
+      <h5>But you <i>look</i> like a girl?
+          <blockquote>Thank you, I know, I put effort into achieving that.</blockquote>
+      </h5>
+      <h5>Actually, you're ugly and/or look like a man!
+          <blockquote>Thank you, I know, I put effort into achieving that.</blockquote>
+      </h5>
+      <h5>
+          How can you be trans if you're not [misconception and/or offensive stereotype]?
+          <blockquote>How can you be swerving that far out of your lane?</blockquote>
+      </h5>
+      <h5>
+          Do your parents know that you do porn?
+          <blockquote>No. But (I am dead serious) if you donate $1000 to a charity of my choice, I will livestream myself calling my mom and telling her on speakerphone.</blockquote>
+      </h5>
+      <h5>
+          I'm a fellow sex worker (cam model, porn star, stripper, PSO, etc.) can I ask you for advice?
+          <blockquote>Yes, I'm not an expert but I'll do my best to help with technical issues. But please do not ask me if some area of work is "right for you"--if you're doing the work regularly and still struggling with that question, the answer is probably no.</blockquote>
+      </h5>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
